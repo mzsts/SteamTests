@@ -1,0 +1,13 @@
+{
+  "TestParameters": 
+  [
+    {
+      "GameTitle": "The Witcher",
+      "QuantityToCheckSorting": 10
+    },
+    {
+      "GameTitle": "Fallout",
+      "QuantityToCheckSorting": 20
+    }
+  ]
+}
